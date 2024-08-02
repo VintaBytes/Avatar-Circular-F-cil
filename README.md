@@ -10,7 +10,7 @@ También he preparado un video, en el que te guiaré a través de los pasos nece
 
 Descubre cómo lograr este efecto de manera sencilla a tus proyectos web con este tutorial paso a paso:  <a href="https://www.youtube.com/watch?v=mK3ucha0q4Y">Cómo Crear una Imagen Circular con HTML y CSS</a>
 
-<img src="https://github.com/VintaBytes/Avatar-Circular-Facil/blob/main/portada.jpeg?raw=true">
+<img src="https://github.com/VintaBytes/Avatar-Circular-Facil/blob/main/portada.jpeg?raw=true" width="320px">
 
 ## Screenshot:
-<img src="https://github.com/VintaBytes/Avatar-Circular-Facil/blob/main/screenshot.png?raw=true">
+<img src="https://github.com/VintaBytes/Avatar-Circular-Facil/blob/main/screenshot.png?raw=true" width="320px">
